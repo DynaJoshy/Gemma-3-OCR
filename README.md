@@ -12,11 +12,4 @@ This project leverages Gemma-3 vision capabilities and Streamlit to create a 100
    ollama run gemma3:12b
    ```
 
-**Install Dependencies**:
-   Ensure you have Python 3.11 or later installed.
-   ```bash
-   pip install streamlit ollama pillow
-   ```
-
----
 
